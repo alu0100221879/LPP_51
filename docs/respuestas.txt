@@ -2,3 +2,7 @@ Trabajo en equipo con git
 
 En la compilación el lenguaje de alto nivel es transformado en lenguaje máquina por el compilador. El compilador no interviene en la ejecución.
 En cambio en la interpretación el intérprete participa en la ejecución, leyendo y ejecutando las instrucciones del programa más o menos una a una.
+
+-------------------------------------------
+
+La diferencia fundamental es la primera línea del script bash (#! /bin/sh), que indica el intéprete a usar. Esto no es necesario en el fichero Ruby.
